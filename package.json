@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/Teona09/nodejsApp/issues"
   },
-  "homepage": "https://github.com/Teona09/nodejsApp#readme"
+  "homepage": "https://github.com/Teona09/nodejsApp#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
 }
